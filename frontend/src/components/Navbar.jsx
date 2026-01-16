@@ -9,7 +9,7 @@ function Navbar() {
     }`;
 
   return (
-    <nav className="bg-blue-700 text-white p-4 flex justify-between items-center shadow-md">
+    <nav className="bg-blue-900 text-white p-4 flex justify-between items-center shadow-md">
       {/* Logo / Brand */}
       <Link to="/" className="font-bold text-xl flex items-center gap-2">
         🏥 CityCare
